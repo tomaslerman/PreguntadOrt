@@ -1,0 +1,23 @@
+
+<link rel="stylesheet" href="/css/Respuesta.css">
+    <link rel="icon" href="imagenes/Logo.jpg">
+    <div class="cartel">
+
+        @if(ViewBag.Correcta == true)
+        {
+            <div class="correcto">
+            Respuesta <strong>Correcto</strong>
+            </div>
+        }
+        else{
+            <div class="incorrecto">
+            Respuesta <strong>Incorrecta</strong>
+            </div>
+        }
+    
+    </div>
+    
+
+    <div style="display: flex; justify-content: center; padding-top: 200px;">
+        <a href='@Url.Action("Jugar")'><button style="background-color: lightblue; color: black; padding: 10px 20px; font-size: 16px; border: orange; border-radius: 4px; cursor: pointer; ">Siguiente pregunta </button></a>
+    </div>

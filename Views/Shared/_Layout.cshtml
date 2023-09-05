@@ -1,0 +1,35 @@
+﻿<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8" />
+        <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+        <title>@ViewData["Title"] PreguntadOrt</title>
+        <link rel="stylesheet" href="~/css/site.css" asp-append-version="true"/>
+        <link rel="icon" href="/imagenes/Logo.jpg">
+    </head>
+    <body>
+        <header>
+            <nav>
+                <ul>
+                    <li>
+                        <a href='@Url.Action("Index")' style="height: 100px;"><img src="/imagenes/Logo.jpg"></a>
+                    </li>
+                    <li>
+                        <div class="Titulo">
+                            <h1>PreguntadOrt</h1>
+                        </div>
+                    </li>
+                    <li>
+                        <a href='@Url.Action("ConfigurarJuego")'>Jugar</a>
+                    </li>
+                </ul>
+            </nav>
+        </header>
+    
+        <div>
+            @RenderBody()
+        </div>
+        <script src="~/js/site.js" asp-append-version="true"></script>
+        @await RenderSectionAsync("Scripts", required: false)
+    </body>
+</html>

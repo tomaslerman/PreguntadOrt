@@ -1,0 +1,32 @@
+@import url('https://fonts.googleapis.com/css2?family=Bricolage+Grotesque:opsz@10..48&display=swap');
+
+.room-carousel {
+    width: 700px;
+    height: 450px;
+    margin-bottom: 20px;
+    position: relative;
+}
+
+.room-carousel img {
+    width: 100%;
+    height: 100%;
+    position: absolute;
+    top: 0;
+    left: 0;
+    opacity: 0;
+    transition: opacity 1s;
+    float: left;
+    border-radius: 15px;
+}
+
+.room-carousel img.active {
+    opacity: 1;
+}
+
+*{
+    margin: 0px;
+    border: 0px;
+    padding: 0px;
+    font-family: 'Bricolage Grotesque', sans-serif;
+    
+}

@@ -1,0 +1,28 @@
+﻿<link rel="stylesheet" href="/css/Index.css">
+@{
+    ViewData["Title"] = "Index";
+}
+
+<!-- carrusel -->
+    <div style="display: flex;justify-content: center; padding-top: 100px;">
+        <div class="room-carousel">
+            <img src="imagenes/carrusel1.jpg" class="active"> 
+            <img src="imagenes/carrusel2.jpg">
+            <img src="imagenes/carrusel3.jpg">
+        </div>
+    </div>
+    <script>
+        const carousel = document.querySelector('.room-carousel');
+        const images = carousel.querySelectorAll('img');
+        let currentIndex = 0;
+        function changeRoom() {
+            images[currentIndex].classList.remove('active');
+            currentIndex = (currentIndex + 1) % images.length;
+            images[currentIndex].classList.add('active');
+        }
+        setInterval(changeRoom, 3000);
+    </script>
+    <!-- carrusel fin -->
+    <div style="display: flex; justify-content: center;">
+        <a href='@Url.Action("ConfigurarJuego")'><button style="background-color: lightblue; color: black; padding: 10px 20px; font-size: 16px; border: orange; border-radius: 4px; cursor: pointer; ">Configurar juego </button></a>
+    </div>
