@@ -1,0 +1,101 @@
+{
+  "Files": [
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\obj\\Debug\\net7.0\\scopedcss\\projectbundle\\TP7.bundle.scp.css",
+      "PackagePath": "staticwebassets\\TP7.bundle.scp.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\LogoPreguntadort.jpg",
+      "PackagePath": "staticwebassets\\LogoPreguntadort.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\PreguntadOrt.sql",
+      "PackagePath": "staticwebassets\\PreguntadOrt.sql"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\Thumbs.db",
+      "PackagePath": "staticwebassets\\Thumbs.db"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\css\\ConfigurarJuego.css",
+      "PackagePath": "staticwebassets\\css\\ConfigurarJuego.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\css\\Fin.css",
+      "PackagePath": "staticwebassets\\css\\Fin.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\css\\Index.css",
+      "PackagePath": "staticwebassets\\css\\Index.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\css\\Juego.css",
+      "PackagePath": "staticwebassets\\css\\Juego.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\css\\Respuesta.css",
+      "PackagePath": "staticwebassets\\css\\Respuesta.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\css\\site.css",
+      "PackagePath": "staticwebassets\\css\\site.css"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\favicon.ico",
+      "PackagePath": "staticwebassets\\favicon.ico"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\Fondo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Fondo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\Logo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\Logo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\carrusel1.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\carrusel1.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\carrusel2.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\carrusel2.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\carrusel3.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\carrusel3.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\cielo.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\cielo.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\header.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\header.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\imagenes\\preguntados.jpg",
+      "PackagePath": "staticwebassets\\imagenes\\preguntados.jpg"
+    },
+    {
+      "Id": "C:\\Users\\ramak\\Downloads\\TP7 - PreguntadOrt\\TP7\\wwwroot\\js\\site.js",
+      "PackagePath": "staticwebassets\\js\\site.js"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.TP7.Microsoft.AspNetCore.StaticWebAssets.props",
+      "PackagePath": "build\\Microsoft.AspNetCore.StaticWebAssets.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.build.TP7.props",
+      "PackagePath": "build\\TP7.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildMultiTargeting.TP7.props",
+      "PackagePath": "buildMultiTargeting\\TP7.props"
+    },
+    {
+      "Id": "obj\\Debug\\net7.0\\staticwebassets\\msbuild.buildTransitive.TP7.props",
+      "PackagePath": "buildTransitive\\TP7.props"
+    }
+  ],
+  "ElementsToRemove": []
+}

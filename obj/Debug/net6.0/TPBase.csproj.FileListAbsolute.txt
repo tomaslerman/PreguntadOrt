@@ -1,0 +1,8 @@
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.csproj.AssemblyReference.cache
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.GeneratedMSBuildEditorConfig.editorconfig
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.AssemblyInfoInputs.cache
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.AssemblyInfo.cs
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.csproj.CoreCompileInputs.cache
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.MvcApplicationPartsAssemblyInfo.cache
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.RazorAssemblyInfo.cache
+Z:\2023\Programacion 2023\TP7\obj\Debug\net6.0\TPBase.RazorAssemblyInfo.cs
